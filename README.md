@@ -37,7 +37,7 @@ The resulting dashboard provides a clear view of strategic areas:
 | Category | Tool/Library | Focus Area |
 | :--- | :--- | :--- |
 | **Data Analysis** | **DAX (Data Analysis Expressions)** | Calculated Measures, Context Transitions, Time Intelligence |
-| **Data ETL** | **Power Query (M) or Python** | Data Cleaning, Transformation, and Schema Structuring |
-| **Visualization** | **[Insert Tool: e.g., Power BI / Tableau]** | Dashboard Design, Data Storytelling, and Interactivity |
+| **Data ETL** | **Python** | Data Cleaning, Transformation, and Schema Structuring |
+| **Visualization** | **[Power BI ]** | Dashboard Design, Data Storytelling, and Interactivity |
 
 ---
