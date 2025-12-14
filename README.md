@@ -1,4 +1,6 @@
 # 🛍️ Myntra E-commerce Data Analysis & Dashboard
+<img width="1188" height="670" alt="Screenshot 2025-12-14 133504" src="https://github.com/user-attachments/assets/561b7170-0343-4f54-9079-23145745462c" />
+
 
 ### 🎯 Project Purpose and Methodology
 
